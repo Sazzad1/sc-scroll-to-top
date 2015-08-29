@@ -1,16 +1,11 @@
-[Demo page][1]
+Demo Page : Coming soon
 ==================
 
-A jquery plugin for adding a dynamic scroll-to-top button
+A Wordpress plugin for adding a dynamic scroll-to-top button
 
 # Usage
 
-```html
-
-<script type="text/javascript">
-	$("#pageup").pageup();
-</script>
-```
+coming soon...
 
 # Options
 
@@ -22,4 +17,4 @@ scrollDuration: 400  // smooth scroll duration
 ```
 
 
-[1]: http://mertkahyaoglu.github.io/jquery-pageup/
+Jquery plugin credit: http://mertkahyaoglu.github.io/jquery-pageup/
