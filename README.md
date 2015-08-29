@@ -1,4 +1,4 @@
-Demo Page : Coming soon
+Demo Page : Coming soon ( now its in beta version )
 ==================
 
 A Wordpress plugin for adding a dynamic scroll-to-top button
